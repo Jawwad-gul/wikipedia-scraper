@@ -36,8 +36,8 @@ The project generates a CSV file containing all the scraped company data in a cl
 
 **Muhammad Jawwad Gul**
 - Email: jawwadgul12@gmail.com
-- LinkedIn: [linkedin.com/in/jawwadgul](https://linkedin.com/in/jawwadgul)
-- GitHub: [github.com/jawwad1234](https://github.com/jawwad1234)
+- LinkedIn: [linkedin.com/in/jawwadgul](https://www.linkedin.com/in/muhammad-jawwad-gul/)
+- GitHub: [github.com/jawwad1234](https://github.com/Jawwad-gul)
 
 ## 📮 Contact
 
